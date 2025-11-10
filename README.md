@@ -22,12 +22,13 @@ This project is a hands-on exercise focused on demystifying core concepts, inclu
 
 ## 💻 Project Structure (Based on the Series)
 
-The project mirrors the progression of the `makemore` video series, with different files or notebooks corresponding to key evolutionary stages of the code:
+The project mirrors the progression of the `Neural Networks: Zero to Hero` video series, with different files or notebooks corresponding to key evolutionary stages of the code:
 
 * **`01_Bigram.ipynb`**: The initial step: a simple **bigram language model** based on basic counts.
 * **`02_MLP.ipynb`**: Transitioning from counts to weights: creating a simple **Multi-Layer Perceptron (MLP)** character-level model.
 * **`03_Activation_Gradiants_BatchNorm.ipynb`**: Implementing and exploring the mechanics of **Activation**, **Gradiants** & **Batch Normalization**.
 * **`04_Backprop.ipynb`**: Exploring the mechanics of **Back Propagation**.
+* **`05_Wavenet.ipynb`**: Using the **Wavenet** model to stack interconnected layers.
 * **... and so on (as I continue through the series)**
 
 ---
